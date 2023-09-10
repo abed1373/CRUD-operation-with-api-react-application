@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nikesh",
+      "username": "nikesh",
+      "phone": "09123456",
+      "email": "Nicks@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Max",
+      "username": "max",
+      "phone": "091234567",
+      "email": "dipe@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jamil",
+      "username": "jamil",
+      "phone": "0912345678",
+      "email": "jamil@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Salim",
+      "username": "Salim",
+      "phone": "09123456789",
+      "email": "salim@gmail.com"
+    },
+    {
+      "name": "Basir",
+      "email": "basir@example.com",
+      "phone": "09111111111",
+      "id": 8
+    }
+  ]
+}
